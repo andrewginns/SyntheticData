@@ -1,5 +1,5 @@
 # SyntheticData
-Playground for investigations into synthetic data generation
+Playground for investigations into synthetic data generation. Classification techniques used on data to compare performance betwwen real and synthetic data.
 
 ## Approaches Covered
 * DataSynthesiser https://github.com/DataResponsibly/DataSynthesizer
