@@ -6,3 +6,6 @@ Playground for investigations into synthetic data generation. Classification tec
 
 ## Datasets utilised
 * https://archive.ics.uci.edu/ml/datasets/Housing
+
+## Getting Started
+Upload the ipython notebook to Google Colaboratory or run it locally.
